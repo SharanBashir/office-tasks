@@ -1,27 +1,48 @@
-# Office Tasks for Registry & Academic Administration
+# 🗂️ Office Tasks – Administrative Portfolio
 
-This repository contains examples of administrative tasks relevant to university-level student, course, and registry support roles — especially aligned with positions like **Registry Administrator** at UK universities.
+This repository showcases practical administrative tasks commonly handled in educational and office environments. It highlights my proficiency with tools like **Microsoft Excel**, **Microsoft Word**, and **Google Workspace**, demonstrating how I manage real-world tasks such as student assessment, documentation, and reporting.
 
-All documents are created to showcase proficiency in Microsoft Word, Excel, and administrative best practices.
+## 📌 Overview
 
-## 📂 Contents
+The tasks in this repository reflect day-to-day administrative responsibilities including:
 
-### 1. Student Assessment Sheet (Excel)
-- A practical Excel workbook designed to record, calculate, and visualize student assessment data.
-- Includes automated grade calculation formulas and conditional formatting.
-
-### 2. Course Registration Form (Word)
-- A customizable Word template for course registration, including dropdowns, tables, and required fields.
-- Demonstrates form design skills and understanding of student intake processes.
-
-## 🎯 Skills Demonstrated
-- Microsoft Excel: data entry, formulas, conditional formatting, data validation
-- Microsoft Word: document formatting, form fields, administrative templates
-- Administrative workflow understanding: assessment, registration, fee tracking
-
-## 🔗 Portfolio Use
-This repository is included in my application for administrative roles to demonstrate practical experience in education administration systems and digital office tools.
+- Maintaining student assessment records
+- Automating late fee tracking
+- Designing registration and attendance templates
+- Creating official documents using Word
+- Exporting professional reports
+- Preparing course management documents
 
 ---
 
-📬 For further examples or questions, feel free to contact me or view more at: [github.com/SharanBashir](https://github.com/SharanBashir)
+## 📁 Contents
+
+| Folder/File | Description |
+|-------------|-------------|
+| `AssessmentSheet.xlsx` | An Excel-based student assessment tracker with grading logic and conditional formatting. |
+| `LateFeeTracker.xlsx` | A spreadsheet to monitor and highlight late fee payments. |
+| `RegistrationForm.docx` | A Word-based student registration form with fillable fields. |
+| `MeetingNotesTemplate.docx` | A professional meeting notes template used during academic or staff meetings. |
+| `Screenshots/` | Visual evidence of working files, formulas, and layouts for demonstration. |
+
+---
+
+## 🛠 Tools & Skills Demonstrated
+
+- **Microsoft Excel**
+  - Formulas & functions (IF, VLOOKUP, conditional formatting)
+  - Data validation, protected sheets
+- **Microsoft Word**
+  - Forms, tables, headers/footers
+  - Structured document design
+- **Google Workspace (Docs, Sheets, Forms)**
+  - Equivalent tasks replicated using Google Suite
+  - Collaborative file preparation and cloud usage
+
+---
+
+## 👤 Author
+
+**Sharan Bashir**  
+Educational Administrator & Computer Science Specialist  
+![image](https://github.com/user-attachments/assets/c2c11eec-4e3e-49f6-98ae-527b4120e309)
